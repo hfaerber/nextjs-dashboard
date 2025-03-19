@@ -1,5 +1,5 @@
 {
-    "build": {
-      "command": "pnpm rebuild bcrypt && pnpm run build"
-    }
+  "build": {
+    "command": "pnpm run build"
+  }
 }
